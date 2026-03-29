@@ -1,6 +1,6 @@
 # The Open Source Audit: MySQL
 
-**Student Name:** boomikarai715 <br>
+**Student Name:** Bhoomika Rai<br>
 **Registration Number:** 24BCE10656 <br>
 **Project Focus:** MySQL (FOSS Audit)
 
